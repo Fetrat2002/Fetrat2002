@@ -16,14 +16,11 @@ Ein Password Manager speichert Passwörter sicher, damit man sich nicht alle mer
 - Passwörter anzeigen
 - (Optional) Verschlüsselung der Daten
 
-# Technologien / Tools
-- (z. B. Python / Java / nur Konzept)
-
 # Ziel des Projekts
 Dieses Projekt ist ein Lernprojekt, um grundlegende Konzepte der IT-Sicherheit zu verstehen.
 
 # Status
-In Bearbeitung 🚧 / Abgeschlossen ✅
+Abgeschlossen ✅
 
 # Notizen
-Dies ist kein fertiges Produkt, sondern ein Projekt zum Lernen.
+Dies ist kein fertiges Produkt, sondern ein Projekt zum Lernen. (Selbst lernen)
