@@ -1,16 +1,29 @@
-## Hi there 👋
+# Password Manager (Learning Project) 🔐
 
-<!--
-**Fetrat2002/Fetrat2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Beschreibung
+In diesem Projekt habe ich gelernt, wie ein einfacher Password Manager funktioniert.
 
-Here are some ideas to get you started:
+Ein Password Manager speichert Passwörter sicher, damit man sich nicht alle merken muss.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Was ich gelernt habe
+- Warum starke Passwörter wichtig sind
+- Grundidee von Verschlüsselung (Encryption)
+- Wie Daten sicher gespeichert werden können
+- Struktur eines einfachen Programms
+
+# Funktionen (einfach erklärt)
+- Passwörter speichern
+- Passwörter anzeigen
+- (Optional) Verschlüsselung der Daten
+
+# Technologien / Tools
+- (z. B. Python / Java / nur Konzept)
+
+# Ziel des Projekts
+Dieses Projekt ist ein Lernprojekt, um grundlegende Konzepte der IT-Sicherheit zu verstehen.
+
+# Status
+In Bearbeitung 🚧 / Abgeschlossen ✅
+
+# Notizen
+Dies ist kein fertiges Produkt, sondern ein Projekt zum Lernen.
